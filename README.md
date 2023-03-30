@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **NumPy, Pandas, Matplotlib, Scikit Learn, React, SQL**
+- 💬 Skills **SQL, RDBMS, Selenium,  HTML, CSS, Spark, NumPy, Pandas, Matplotlib, Scikit Learn, React**
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
 
