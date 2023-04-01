@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/3SPDQR8](http://bit.ly/3SPDQR8)
+- 📄 Know about my experiences [shorturl.at/frGJQ](shorturl.at/frGJQ)
 
 - ⚡ Fun fact **I am also a cryptocurrency enthusiast. I am also well-versed in defi, layer 1 and layer 2, and staking projects.**
 
