@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Skills **SQL, RDBMS, Selenium,  HTML, CSS, Spark, NumPy, Pandas, Matplotlib, Scikit Learn, React**
+- 💬 Skills **SQL, RDBMS, Selenium,  HTML, CSS, Spark, NumPy, Pandas, Matplotlib, Scikit Learn, SciPy, TensorFlow , React**
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/40WFDXy](http://bit.ly/40WFDXy)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am also a cryptocurrency enthusiast. I am also well-versed in defi, layer 1 and layer 2, and staking projects.**
 
