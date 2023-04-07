@@ -7,7 +7,7 @@
 
 - Hi, I am **a Python Programmer currently exploring Data Science.**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Nural Networks**
 
 - 💬 Skills **SQL, RDBMS, Selenium,  HTML, CSS, Spark, NumPy, Pandas, Matplotlib, Scikit Learn, SciPy, TensorFlow , React**
 
