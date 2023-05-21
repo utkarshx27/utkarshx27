@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences Kaggle Dataset (Rank 100 out of 90169 ) and Notebook Expert(Rank 1482 out of 276754)
 
 - ⚡ Fun fact **I am also a cryptocurrency enthusiast. I am also well-versed in defi, layer 1 and layer 2, and staking projects.**
 
