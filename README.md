@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/utkarshx27" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshx27?logo=twitter&style=for-the-badge" alt="utkarshx27" /></a> </p>
 
-- Hi, I am **a Full Stack Python Developer, currently exploring Data Science.**
+- Hi, I am **a Full Stack Python Developer, with experience in Machine Learning..**
 
-- 🌱 I’m currently learning **Nural Networks**
+- 🌱 I’m currently learning **Neural Networks**
 
-- 💬 Skills **SQL, RDBMS, Selenium,  HTML, CSS, Spark, NumPy, Pandas, Matplotlib, Scikit Learn, SciPy, TensorFlow , React**
+- 💬 Skills **SQL, RDBMS, NLP, Data visualization, Deep Learning, TensorFlow, Selenium,  HTML, CSS, and React**
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
 
-- 📄 Know about my experiences Kaggle Dataset (Rank 100 out of 90169 ) and Notebook Expert(Rank 1482 out of 276754)
+- 📄 Know about my experiences: Top 100 Kaggle Experts (Rank- 44) and in the top 30% of Kaggle competition. Data Science Intern @CodeClause
 
 - ⚡ Fun fact **I am also a cryptocurrency enthusiast. I am also well-versed in defi, layer 1 and layer 2, and staking projects.**
 
