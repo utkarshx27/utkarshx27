@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
 
-- 📄 Know about my experiences: Top 100 Kaggle Experts (Rank- 44) and in the top 30% of Kaggle competition. Data Science Intern @CodeClause
+- 📄 Know about my experiences: Top 100 Kaggle Experts (Rank- 38) and in the top 30% of Kaggle competition. Data Science Intern @CodeClause
 
 - ⚡ Fun fact **I am also a cryptocurrency enthusiast. I am also well-versed in defi, layer 1 and layer 2, DeFi, NFT, DAO, and Web 3.**
 
