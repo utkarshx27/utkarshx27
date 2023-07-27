@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkarshx27" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshx27?logo=twitter&style=for-the-badge" alt="utkarshx27" /></a> </p>
 
-- Hi, I am **a Full Stack Python Developer, with experience in Machine Learning..**
+- Hi, I am **a Full Stack Python Developer, exploring Data Science.**
 
 - 🌱 I’m currently learning **Neural Networks**
 
