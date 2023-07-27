@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 💬 Skills **SQL, RDBMS, NLP, Data visualization, Deep Learning, TensorFlow, Selenium,  HTML, CSS, and React**
+- 💬 Skills **Python, SQL, NumPy, Pandas, Matplotlib, Scikit-Learn, Git/GitHub, TensorFlow**
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
 
