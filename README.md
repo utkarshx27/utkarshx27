@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
 
-- ⚡ Fun fact **I am also a cryptocurrency enthusiast.**
+- ⚡ Fun fact **I am a bitcoin fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
