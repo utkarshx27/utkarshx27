@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/utkarshx27" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshx27?logo=twitter&style=for-the-badge" alt="utkarshx27" /></a> </p>
 
-- Hi, I am **a Full Stack Python Developer, exploring Data Science.**
-
-- 🌱 I’m currently learning **Neural Networks**
+- Hi, I am **Data Scientist.**
 
 - 💬 Skills **Python, SQL, NumPy, Pandas, Matplotlib, Scikit-Learn, Git/GitHub, TensorFlow**
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
 
-- ⚡ Fun fact **I am also a cryptocurrency enthusiast. I am also well-versed in defi, layer 1 and layer 2, DeFi, NFT, DAO, and Web 3.**
+- ⚡ Fun fact **I am also a cryptocurrency enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
