@@ -5,7 +5,7 @@
 - 💬 **Technical Skills**
   - Programming Languages: Python, R
   - Databases: SQL, NoSQL (PostgreSQL, MongoDB)
-  - Frameworks & Libraries: Scikit-Learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch, NLTK, Keras, Seaborn, Flask-RESTful, FastAPI, Lang Chain, Lang Graph, Open AI, AutoGen, Crew AI 
+  - Frameworks & Libraries: Scikit-Learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch, NLTK, Keras, Seaborn, Flask-RESTful, FastAPI, Lang Chain, Lang Graph, Open AI, AutoGen, Crew AI and Hugging Face
   - Tools & Platforms: AWS, Docker
 
 - 📫 How to reach me **utkarshsinghx27@gmail.com**
