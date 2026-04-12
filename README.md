@@ -63,9 +63,3 @@ Data          = ["OpenSearch", "Pandas", "Vector Search"]
 * Kaggle: kaggle.com/utkarshx27
 * Email: [utkarshsinghx27@gmail.com](mailto:utkarshsinghx27@gmail.com)
 
----
-
-### ⚡ Fun note
-
-Most of my projects start with
-*"what if I fine-tune this instead of prompting it..."* 😄
