@@ -37,16 +37,6 @@ I am particularly interested in systems where **LLMs are only one component of a
 
 ---
 
-### Financial Analyst Chatbot
-
-An agentic financial assistant for answering questions using market data and specialized analysis tools.
-
-Built around graph-based orchestration, API integrations, structured reasoning, and conversational financial analysis.
-
-`LangGraph` `FastAPI` `LLMs` `Python`
-
----
-
 ## Things I've Worked On
 
 Outside my public projects, I have worked on:
