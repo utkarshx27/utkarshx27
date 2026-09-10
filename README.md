@@ -55,37 +55,6 @@ A lot of this work has shaped how I approach the projects I build here.
 
 ---
 
-## How I Build AI Systems
-
-I generally think about AI applications as software systems first and model integrations second.
-
-```text
-Prototype
-    ↓
-Evaluation
-    ↓
-Retrieval / Model Quality
-    ↓
-APIs and Async Processing
-    ↓
-Observability and Failure Handling
-    ↓
-Optimization
-    ↓
-Production
-```
-
-A few principles I tend to follow:
-
-* Prefer simple architectures until complexity is justified.
-* Separate retrieval quality from generation quality.
-* Fine-tune when the behavior should be learned rather than prompted.
-* Keep deterministic problems out of the LLM whenever possible.
-* Measure latency, cost, quality, and failure cases.
-* Treat deployment and monitoring as part of the ML system.
-
----
-
 ## Tech
 
 **Languages**
